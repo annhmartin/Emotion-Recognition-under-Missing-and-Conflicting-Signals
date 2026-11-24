@@ -1,8 +1,6 @@
 # Emotion Recognition under Missing and Conflicting Signals
 Uncertainty-Aware Cross-Modal Transformer for Robust Emotion Recognition under Missing and Conflicting Signals
 
-Colab Notebook: [Meld Features](https://colab.research.google.com/drive/1EIJSmEVVkjJQprzo4bKl40DQ6kAkTlWh?usp=drive_link)
-
 Colab Drive: [Advanced Research folder](https://drive.google.com/drive/folders/1ZIbEy3OB-38TXhI78d7zAlBfBrzTrMdk?usp=drive_link)
 
 ## Status ->
@@ -16,4 +14,4 @@ We each need to download our own copy of the data or we need a bigger storage pl
   
 
 ### Proposal paper
-Written here: [Emotion Recognition under Missing and Conflicting Signals paper](https://www.overleaf.com/project/6ae863066fe3f59de8667e9c)
+[Proposal paper](https://docs.google.com/document/d/1zsd4TZhKG0OPdEgdB6F019kUPgBEdS5yqDzYRB9Q1JI/edit?usp=sharing)

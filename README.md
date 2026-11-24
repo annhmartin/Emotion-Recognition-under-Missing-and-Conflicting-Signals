@@ -9,7 +9,7 @@ Colab Drive: [Advanced Research folder](https://drive.google.com/drive/folders/1
 
 ### Data Collection
 - IEMOCAP: requested
-- MELD: downloaded from huggingface.co/datasets/declare-lab/MELD, file MELD.Raw.tar.gz
+- MELD: downloaded from [HuggingFace](huggingface.co/datasets/declare-lab/MELD), file MELD.Raw.tar.gz
 - CMU-MOSEI: server down
 
 ### Proposal paper

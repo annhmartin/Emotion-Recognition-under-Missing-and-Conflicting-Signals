@@ -9,8 +9,10 @@ Colab Drive: [Advanced Research folder](https://drive.google.com/drive/folders/1
 
 ### Data Collection
 - IEMOCAP: requested
-- MELD: We each need to download it from [HuggingFace](huggingface.co/datasets/declare-lab/MELD), file MELD.Raw.tar.gz
-- CMU-MOSEI: server down
+- MELD: [HuggingFace](huggingface.co/datasets/declare-lab/MELD), file MELD.Raw.tar.gz
+- CMU-MOSEI: [mosei](https://drive.google.com/drive/folders/1A_hTmifi824gypelGobgl2M-5Rw9VWHv)
+We each need to download our own copy of the data or we need a bigger storage place than Google drive to hold the data
+  
 
 ### Proposal paper
 Written here: [Emotion Recognition under Missing and Conflicting Signals paper](https://www.overleaf.com/project/6ae863066fe3f59de8667e9c)

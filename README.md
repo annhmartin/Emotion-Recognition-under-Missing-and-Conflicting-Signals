@@ -10,8 +10,7 @@ Colab Drive: [Advanced Research folder](https://drive.google.com/drive/folders/1
 - MELD: [HuggingFace](huggingface.co/datasets/declare-lab/MELD), file MELD.Raw.tar.gz
 - CMU-MOSEI: [mosei](https://drive.google.com/drive/folders/1A_hTmifi824gypelGobgl2M-5Rw9VWHv)
 
-We each need to download our own copy of the data or we need a bigger storage place than Google drive to hold the data
-  
+I ran the data in file [01_extract_meld_features](https://colab.research.google.com/drive/1Yr09Ic3kZzh8-mqcuSmvROv2-jYMLa1A?usp=drive_link) so you all don't have to download the data and we will just work off of [02_use_meld_features](https://colab.research.google.com/drive/1EIJSmEVVkjJQprzo4bKl40DQ6kAkTlWh?usp=drive_link).
 
 ### Proposal paper
 [Proposal paper](https://docs.google.com/document/d/1zsd4TZhKG0OPdEgdB6F019kUPgBEdS5yqDzYRB9Q1JI/edit?usp=sharing)
